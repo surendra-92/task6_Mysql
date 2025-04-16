@@ -14,7 +14,11 @@ month wise revenue from october November December <br>
 -> In November Month total_revenue is 16579 then Order_Volume is 62 <br>
 -> In december Month total_Revenue is 20020 then Order_Volume is 78 <br>
 
-please see mysql script as well 
+please see mysql script as well <br>
+https://github.com/surendra-92/task6_Mysql/blob/main/SQL%20Script.sql 
+<br>
+
+
 
 
 
