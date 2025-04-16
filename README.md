@@ -8,3 +8,13 @@ toal revenue month wise  october November December
 
 ![Result table](https://github.com/user-attachments/assets/06104a74-628c-4e4b-9866-92f2da0a3fa2)
 
+above image shows that 
+month wise revenue from october November December
+-> In October Month total_Revenue is 15600 then Order_Volume is 60
+-> In November Month total_revenue is 16579 then Order_Volume is 62 
+-> In december Month total_Revenue is 20020 then Order_Volume is 78 
+
+please see mysql script as well 
+
+
+
